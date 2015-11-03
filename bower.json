@@ -9,5 +9,8 @@
     "examples",
     "spec",
     "site"
-  ]
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.2"
+  }
 }
